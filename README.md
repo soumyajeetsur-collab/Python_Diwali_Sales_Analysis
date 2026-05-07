@@ -177,9 +177,10 @@ Example:
 ```markdown
 # 📊 Diwali Sales Analysis Dashboard
 
-<p align="center">https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis/tree/main/image
+<p align="center">
+  <img src="images/diwali_sales_dashboard.png" alt="Diwali Sales Dashboard" width="1000"/>
+</p>
 
-```
 
 ---
 
