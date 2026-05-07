@@ -172,7 +172,7 @@ Open the notebook and run all cells.
 
 You can add screenshots of your charts inside an `images` folder and display them here.
 
-Example:
+Example:https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis/tree/main/image
 
 
 ---
