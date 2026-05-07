@@ -174,13 +174,6 @@ You can add screenshots of your charts inside an `images` folder and display the
 
 Example:
 
-```markdown
-# 📊 Diwali Sales Analysis Dashboard
-
-<p align="center">
-  <img src="images/diwali_sales_dashboard.png" alt="Diwali Sales Dashboard" width="1000"/>
-</p>
-
 
 ---
 
