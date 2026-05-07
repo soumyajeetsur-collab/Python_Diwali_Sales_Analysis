@@ -167,12 +167,18 @@ jupyter notebook
 Open the notebook and run all cells.
 
 ---
+## 📸 Dashboard Preview
 
-# 📸 Dashboard / Output Preview
+🚧 *Add screenshots here after uploading images to `/images` folder*
 
-You can add screenshots of your charts inside an `images` folder and display them here.
+Example:<img width="1060" height="1170" alt="diwali_sales_dashboard" src="https://github.com/user-attachments/assets/9f73569e-750b-4287-8299-c1e4b23b1a54" />
 
-Example:[(https://github.com/soumyajeesur-collab/Python_Diwali_Sales_Analysis/blob/main/image/diwali_sales_dashboard.png)
+
+
+```
+![Dashboard](images/dashboard.png)
+[Dashboard Preview]
+https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard/blob/main/Blinkit%20Project%20Dashboard.png
 
 
 ---
