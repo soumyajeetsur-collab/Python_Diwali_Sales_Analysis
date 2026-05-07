@@ -178,7 +178,7 @@ Example:<img width="1060" height="1170" alt="diwali_sales_dashboard" src="https:
 ```
 ![Dashboard](images/dashboard.png)
 [Dashboard Preview]
-https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard/blob/main/Blinkit%20Project%20Dashboard.png
+(https://github.com/soumyajeetsur-collab/Python_Diwali_Sales_Analysis/blob/e2101da0e0f7c3c798b440989a560fe9bd1f5ed8/image/diwali_sales_dashboard.png)
 
 
 ---
